@@ -15,3 +15,7 @@ More stuff.
 This is more sample txt
 
 Sample website with plenty of files for demos
+
+### Copyright
+
+Notice
